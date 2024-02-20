@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EFF1FA;
+}
+
+.container {
+    display: flex;
+    width: 1440px;
+    height: 1024px;
+}
+
+.logo {
+    width: 120px;
+    height: 48px;
+    margin: 5%;
+}
+
+textarea {
+    border-radius: 5px;
+    border: none;
+    background-color: #EFF1FA;
+    padding: 20px;
+}
